@@ -3,7 +3,7 @@
 # 🏛️ Solution & AI Developer
 🚀 **Designing Intelligent, Cloud-Native Systems for Enterprise-Scale Challenges.**
 
-I am a results-oriented Technology Architect with a deep background in **Cloud Computing, Generative AI, and Full-Stack Engineering**. Throughout my career at organizations like **AT&T, T-Mobile, and the NIH**, I have specialized in transforming complex legacy processes into high-performance, automated solutions.
+I am a results-oriented Technology Architect with a deep background in **Cloud Computing, Generative AI, and Full-Stack Engineering**. I have specialized in transforming complex legacy processes into high-performance, automated solutions.
 
 💬 **Contact:** [srinivas.madichetti@ferc.gov](mailto:srinivas.madichetti@ferc.gov) | Frederick, MD
 
